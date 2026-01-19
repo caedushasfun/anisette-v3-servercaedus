@@ -58,4 +58,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "[caeduswrecks]",  
+    "address": "https://anisette-v3-servercaedus.onrender.com"
 }
